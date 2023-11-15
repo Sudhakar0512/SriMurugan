@@ -1,6 +1,7 @@
 import React from "react";
 import img1 from "../assets/aboutVideo2.mp4";
 import { Link } from 'react-scroll';
+import { NavLink } from "react-router-dom";
 export default function About() {
   return (
     <section className="about" id="about">
@@ -22,9 +23,12 @@ export default function About() {
             masterful expertise,Where Dreams Take Flight, and Your Construction
             Aspirations Materialize in a Symphony of Skill and Innovation
           </p>
-          <Link to="reviwes" smooth={true} className="btn" duration={200} >
+          {/* <Link to="reviwes" smooth={true} className="btn" duration={200} >
               read more
-          </Link>
+          </Link> */}
+          <NavLink to="/gallery" className="btn">
+            Gallery
+          </NavLink>
         </div>
       </div>
       <div className="box-container" style={{cursor:'pointer'}}>

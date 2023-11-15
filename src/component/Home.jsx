@@ -46,9 +46,12 @@ export default function Home() {
                     Construction Excellence Where Hard Hats Meet Heart and Hands
                     Build Your Dreams.
                   </p>
-                  <Link to="about" smooth={true} className="btn" duration={200}>
+                  {/* <Link to="about" smooth={true} className="btn" duration={200}>
                   get Started
-                   </Link>
+                   </Link> */}
+                   <a href="tel:9600348970" className="btn">
+                     Make a Call
+                   </a>
                 </div>
               </section>
             </SwiperSlide>
@@ -88,9 +91,9 @@ export default function Home() {
                   <p className="p3">
                   Crafting Dreams, One Solid Foundation at a Time - Excellence Defined.
                   </p>
-                  <Link to="about" smooth={true} className="btn" duration={200}>
-                  get Started
-                   </Link>
+                  <a href="tel:9600348970" className="btn">
+                     Make a Call
+                   </a>
                 </div>
               </section>
             </SwiperSlide>
@@ -122,9 +125,9 @@ export default function Home() {
                     Elevating Dreams, Building Excellence – Your Vision, Our
                     Construction Expertise.
                   </p>
-                  <Link to="about" smooth={true} className="btn" duration={200} >
-                  get Started
-                   </Link>
+                  <a href="tel:9600348970" className="btn">
+                     Make a Call
+                   </a>
                 </div>
               </section>
             </SwiperSlide>
