@@ -33,7 +33,7 @@ export default function Gallery() {
   useEffect(() => {
     // Fetch sorted data when the component mounts
     axios
-      .get("https://srimuruganspringpro.onrender.com/api/products/all")
+      .get("https://srimuruganapi.onrender.com/api/products/all")
       .then((response) => {
         setData(response.data);
         setIsLoading(false);
@@ -67,7 +67,7 @@ export default function Gallery() {
       </div>
       <div className="gallery">
         {isLoading ? (
-          <Loading/>
+          <Loading />
         ) : (
           data.map((item, index) => {
             return (
