@@ -25,6 +25,7 @@ export default function About() {
           </p>
           {/* <Link to="reviwes" smooth={true} className="btn" duration={200} >
               read more
+              
           </Link> */}
           <NavLink to="/gallery" className="btn">
             Gallery
