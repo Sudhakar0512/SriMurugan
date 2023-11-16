@@ -948,9 +948,10 @@ section {
       display: flex;
       flex-direction: column;
       .video {
-        padding:rem;
-        width:91vw;
-        /* width: 94vw; */
+        flex: 1 1 10rem;
+        .img {
+          width: 10%;
+        }
       }
     }
   }

@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../assets/aboutVideo2.mp4";
+import img1 from "../assets/aboutVideo.mp4";
 import { Link } from 'react-scroll';
 import { NavLink } from "react-router-dom";
 export default function About() {
