@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SriMurugan/static/css/main.5dc62d55.css",
-    "main.js": "/SriMurugan/static/js/main.bf37b571.js",
+    "main.css": "/SriMurugan/static/css/main.fb5d3fc1.css",
+    "main.js": "/SriMurugan/static/js/main.eb3a5364.js",
     "static/js/787.91b0033e.chunk.js": "/SriMurugan/static/js/787.91b0033e.chunk.js",
-    "static/media/aboutVideo2.mp4": "/SriMurugan/static/media/aboutVideo2.fa7a5a804c6d1d820327.mp4",
     "static/media/b1.jpg": "/SriMurugan/static/media/b1.01227918c3eed2e06dbe.jpg",
+    "static/media/aboutVideo.mp4": "/SriMurugan/static/media/aboutVideo.233a322dc5829dbb6f9a.mp4",
     "static/media/plan.jpg": "/SriMurugan/static/media/plan.af0ed453845c67d7d2db.jpg",
     "static/media/b6.jpg": "/SriMurugan/static/media/b6.a758945e5e437dbb865f.jpg",
     "static/media/renovation.jpeg": "/SriMurugan/static/media/renovation.20262074d3093b649f03.jpeg",
@@ -29,12 +29,12 @@
     "static/media/lg.ttf?io9a6k": "/SriMurugan/static/media/lg.747d038541bfc6bb8ea9.ttf",
     "static/media/lg.woff2?io9a6k": "/SriMurugan/static/media/lg.64b800aa30714fd916dc.woff2",
     "index.html": "/SriMurugan/index.html",
-    "main.5dc62d55.css.map": "/SriMurugan/static/css/main.5dc62d55.css.map",
-    "main.bf37b571.js.map": "/SriMurugan/static/js/main.bf37b571.js.map",
+    "main.fb5d3fc1.css.map": "/SriMurugan/static/css/main.fb5d3fc1.css.map",
+    "main.eb3a5364.js.map": "/SriMurugan/static/js/main.eb3a5364.js.map",
     "787.91b0033e.chunk.js.map": "/SriMurugan/static/js/787.91b0033e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dc62d55.css",
-    "static/js/main.bf37b571.js"
+    "static/css/main.fb5d3fc1.css",
+    "static/js/main.eb3a5364.js"
   ]
 }
