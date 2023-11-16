@@ -67,7 +67,7 @@
 
 html {
   font-size: 140%;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
   scroll-behavior: smooth;
   scroll-padding-top: 1rem;
 
@@ -950,7 +950,7 @@ section {
       .video {
         flex: 1 1 10rem;
         .img {
-          width: 10%;
+          width: fit;
         }
       }
     }
